@@ -3,7 +3,7 @@
 ### Pré-requisitos globais:
 `npm i -g nodemon typescript ts-node`
 
-### Instlação
+### Instalação
 `npm install`
 
 ### Para rodar o projeto
